@@ -1,3 +1,24 @@
+### Pages
+- index.vue
+  - Holds the landing page.
+- registration.vue
+  - Holds the registration form
+
+### Layouts
+- default.vue
+  - Holds the Nav & Footer
+
+### Components
+- Features.vue
+  - Holds the features components
+- Pricing.vue
+  - Holds the pricing components
+
+### Assets
+- Holds assets used
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 # Convertoo Frontend Coding Test
 
 > Congratulations on making it to the coding test section of the interview process, in this test, you will be building a simple landing page with a registration form using NuxtJS and TailwindCSS.
